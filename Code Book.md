@@ -4,14 +4,15 @@ author: "Vikrant Singh"
 date: "May 6, 2018"
 
 
+
 ### Code Book
 This code book summarizes the resulting data fields in tidyData.txt.
 
-##Identifiers
+## Identifiers
 *  **subject** - The ID of the test subject
 *  **activity** - The type of activity performed when the corresponding measurements were taken
 
-##Measurements
+## Measurements
 *  tBodyAccMeanX
 *  tBodyAccMeanY
 *  tBodyAccMeanZ
