@@ -15,5 +15,5 @@ output: html_document
 7. Merge train and test followed by adding Labels
 8. Uses descriptive activity names to name the activities in the data set
 9. The average of each variable for each activity and each subject is calculated and added.
-10.Tidy data set created in atxt file
+10. Tidy data set created in atxt file
 
