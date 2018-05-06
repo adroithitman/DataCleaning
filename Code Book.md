@@ -13,6 +13,8 @@ This code book summarizes the resulting data fields in tidyData.txt.
 *  **activity** - The type of activity performed when the corresponding measurements were taken
 
 ## Measurements
+Average for all the below parameter is used
+
 *  tBodyAccMeanX
 *  tBodyAccMeanY
 *  tBodyAccMeanZ
